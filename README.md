@@ -5,5 +5,8 @@ APIs:
  - Imagen random: https://cataas.com/cat/says/hello
 
  - Recupera un hecho aleatorio de gatos de la primera API
- - Recuperar la primera palabra del hecho
- - Muestra una imagen de un gato con la primera palabra.
+ - Recuperar las tres primeras palabras del hecho
+ - Muestra una imagen de un gato con las tres primeras palabras.
+
+<h3 align="center"><a href="https://cat-facts-and-photos.netlify.app/" style="background-color:lime; border-radius: 10px; color: black; padding:5px; font-weight: bold;" align="center">Link del proyecto</a></h3>
+ 
