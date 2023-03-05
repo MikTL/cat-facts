@@ -13,7 +13,7 @@ export default function App () {
   return (
     <main>
       <h1>Cat Facts</h1>
-      <button onClick={handleclick}> Change Fact</button>
+      <button className='bn5' onClick={handleclick}> Change Fact</button>
       <section>
 
         {fact && <p>{fact}</p>}
