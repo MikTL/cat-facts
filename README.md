@@ -8,5 +8,5 @@ APIs:
  - Recuperar las tres primeras palabras del hecho
  - Muestra una imagen de un gato con las tres primeras palabras.
 
-<h3 align="center"><a href="https://cat-facts-and-photos.netlify.app/" style="background-color:lime; border-radius: 10px; color: black; padding:5px; font-weight: bold;" align="center">Link del proyecto</a></h3>
+<h3 align="center"><a href="https://cat-facts-and-photos.netlify.app/">Link del proyecto</a></h3>
  
